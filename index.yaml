@@ -34,10 +34,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-10.0.4/zammad-10.0.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-10.0.4/zammad-10.0.4.tgz
     version: 10.0.4
   - apiVersion: v2
     appVersion: 6.1.0-24
@@ -72,10 +72,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-10.0.3/zammad-10.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-10.0.3/zammad-10.0.3.tgz
     version: 10.0.3
   - apiVersion: v2
     appVersion: 6.1.0-24
@@ -110,8 +110,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
     - zammad-10.0.2.tgz
     version: 10.0.2
@@ -148,8 +148,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
     - zammad-10.0.1.tgz
     version: 10.0.1
@@ -186,8 +186,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
     - zammad-10.0.0.tgz
     version: 10.0.0
@@ -224,8 +224,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
     - zammad-9.1.0.tgz
     version: 9.1.0
@@ -262,8 +262,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
     - zammad-9.0.8.tgz
     version: 9.0.8
@@ -300,10 +300,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.7/zammad-9.0.7.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.7/zammad-9.0.7.tgz
     version: 9.0.7
   - apiVersion: v2
     appVersion: 6.0.0-66
@@ -338,10 +338,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.6/zammad-9.0.6.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.6/zammad-9.0.6.tgz
     version: 9.0.6
   - apiVersion: v2
     appVersion: 6.0.0-66
@@ -376,10 +376,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.5/zammad-9.0.5.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.5/zammad-9.0.5.tgz
     version: 9.0.5
   - apiVersion: v2
     appVersion: 6.0.0-32
@@ -414,10 +414,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.4/zammad-9.0.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.4/zammad-9.0.4.tgz
     version: 9.0.4
   - apiVersion: v2
     appVersion: 6.0.0-32
@@ -452,10 +452,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.3/zammad-9.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.3/zammad-9.0.3.tgz
     version: 9.0.3
   - apiVersion: v2
     appVersion: 6.0.0-32
@@ -490,10 +490,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.2/zammad-9.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.2/zammad-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 6.0.0-27
@@ -528,10 +528,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.1/zammad-9.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.1/zammad-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 6.0.0-27
@@ -566,10 +566,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-9.0.0/zammad-9.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-9.0.0/zammad-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 5.4.1-28
@@ -604,10 +604,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.3.1/zammad-8.3.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.3.1/zammad-8.3.1.tgz
     version: 8.3.1
   - apiVersion: v2
     appVersion: 5.4.1-28
@@ -642,10 +642,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.3.0/zammad-8.3.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.3.0/zammad-8.3.0.tgz
     version: 8.3.0
   - apiVersion: v2
     appVersion: 5.4.0-19
@@ -680,10 +680,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.2.3/zammad-8.2.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.2.3/zammad-8.2.3.tgz
     version: 8.2.3
   - apiVersion: v2
     appVersion: 5.4.0-10
@@ -718,10 +718,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.2.2/zammad-8.2.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.2.2/zammad-8.2.2.tgz
     version: 8.2.2
   - apiVersion: v2
     appVersion: 5.4.0-1
@@ -756,10 +756,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.2.1/zammad-8.2.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.2.1/zammad-8.2.1.tgz
     version: 8.2.1
   - apiVersion: v2
     appVersion: zammad-5.4.0-1
@@ -794,10 +794,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.2.0/zammad-8.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.2.0/zammad-8.2.0.tgz
     version: 8.2.0
   - apiVersion: v2
     appVersion: 5.3.1-52
@@ -832,10 +832,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.1.0/zammad-8.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.1.0/zammad-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 5.3.1-15
@@ -870,10 +870,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.0.3/zammad-8.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.0.3/zammad-8.0.3.tgz
     version: 8.0.3
   - apiVersion: v2
     appVersion: 5.3.1-15
@@ -908,10 +908,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.0.2/zammad-8.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.0.2/zammad-8.0.2.tgz
     version: 8.0.2
   - apiVersion: v2
     appVersion: 5.3.1-6
@@ -946,10 +946,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.0.1/zammad-8.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.0.1/zammad-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 5.3.0-23
@@ -984,10 +984,10 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-8.0.0/zammad-8.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-8.0.0/zammad-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 5.3.0-9
@@ -1022,11 +1022,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.1.3/zammad-7.1.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.1.3/zammad-7.1.3.tgz
     version: 7.1.3
   - apiVersion: v2
     appVersion: 5.3.0-9
@@ -1061,11 +1061,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.1.2/zammad-7.1.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.1.2/zammad-7.1.2.tgz
     version: 7.1.2
   - apiVersion: v2
     appVersion: 5.3.0-2
@@ -1100,11 +1100,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.1.1/zammad-7.1.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.1.1/zammad-7.1.1.tgz
     version: 7.1.1
   - apiVersion: v2
     appVersion: 5.3.0
@@ -1139,11 +1139,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.1.0/zammad-7.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.1.0/zammad-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 5.2.3-32
@@ -1178,11 +1178,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.0.1/zammad-7.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.0.1/zammad-7.0.1.tgz
     version: 7.0.1
   - apiVersion: v2
     appVersion: 5.2.3-32
@@ -1217,11 +1217,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-7.0.0/zammad-7.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-7.0.0/zammad-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 5.2.1
@@ -1256,11 +1256,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.8.0/zammad-6.8.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.8.0/zammad-6.8.0.tgz
     version: 6.8.0
   - apiVersion: v2
     appVersion: 5.2.1
@@ -1295,11 +1295,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.7.1/zammad-6.7.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.7.1/zammad-6.7.1.tgz
     version: 6.7.1
   - apiVersion: v2
     appVersion: 5.2.0
@@ -1334,11 +1334,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.7.0/zammad-6.7.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.7.0/zammad-6.7.0.tgz
     version: 6.7.0
   - apiVersion: v2
     appVersion: 5.1.1
@@ -1373,11 +1373,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.6.0/zammad-6.6.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.6.0/zammad-6.6.0.tgz
     version: 6.6.0
   - apiVersion: v2
     appVersion: 5.1.1
@@ -1412,11 +1412,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.5.0/zammad-6.5.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.5.0/zammad-6.5.0.tgz
     version: 6.5.0
   - apiVersion: v2
     appVersion: 5.1.1
@@ -1451,11 +1451,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.4.1/zammad-6.4.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.4.1/zammad-6.4.1.tgz
     version: 6.4.1
   - apiVersion: v2
     appVersion: 5.1.0
@@ -1490,11 +1490,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.4.0/zammad-6.4.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.4.0/zammad-6.4.0.tgz
     version: 6.4.0
   - apiVersion: v2
     appVersion: 5.1.0
@@ -1529,11 +1529,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.3.1/zammad-6.3.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.3.1/zammad-6.3.1.tgz
     version: 6.3.1
   - apiVersion: v2
     appVersion: 5.1.0
@@ -1568,11 +1568,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.3.0/zammad-6.3.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.3.0/zammad-6.3.0.tgz
     version: 6.3.0
   - apiVersion: v2
     appVersion: 5.1.0
@@ -1607,11 +1607,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.2.0/zammad-6.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.2.0/zammad-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 5.1.0
@@ -1646,11 +1646,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.1.0/zammad-6.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.1.0/zammad-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 5.0.3
@@ -1685,11 +1685,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.0.4/zammad-6.0.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.0.4/zammad-6.0.4.tgz
     version: 6.0.4
   - apiVersion: v2
     appVersion: 5.0.3
@@ -1724,11 +1724,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.0.3/zammad-6.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.0.3/zammad-6.0.3.tgz
     version: 6.0.3
   - apiVersion: v2
     appVersion: 5.0.3
@@ -1763,11 +1763,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.0.2/zammad-6.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.0.2/zammad-6.0.2.tgz
     version: 6.0.2
   - apiVersion: v2
     appVersion: 5.0.2
@@ -1802,11 +1802,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.0.1/zammad-6.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.0.1/zammad-6.0.1.tgz
     version: 6.0.1
   - apiVersion: v2
     appVersion: 5.0.1
@@ -1841,11 +1841,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-6.0.0/zammad-6.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-6.0.0/zammad-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 4.1.0
@@ -1876,11 +1876,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-5.0.0/zammad-5.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-5.0.0/zammad-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 4.1.0
@@ -1911,11 +1911,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.2.0/zammad-4.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.2.0/zammad-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 4.1.0
@@ -1946,11 +1946,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.1.0/zammad-4.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.1.0/zammad-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 4.1.0
@@ -1981,11 +1981,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.0.3/zammad-4.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.0.3/zammad-4.0.3.tgz
     version: 4.0.3
   - apiVersion: v2
     appVersion: 4.1.0
@@ -2016,11 +2016,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.0.2/zammad-4.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.0.2/zammad-4.0.2.tgz
     version: 4.0.2
   - apiVersion: v2
     appVersion: 4.1.0
@@ -2051,11 +2051,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.0.1/zammad-4.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.0.1/zammad-4.0.1.tgz
     version: 4.0.1
   - apiVersion: v2
     appVersion: 4.1.0
@@ -2086,11 +2086,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-4.0.0/zammad-4.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-4.0.0/zammad-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 4.0.0
@@ -2121,11 +2121,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.5.1/zammad-3.5.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.5.1/zammad-3.5.1.tgz
     version: 3.5.1
   - apiVersion: v2
     appVersion: 4.0.0
@@ -2156,11 +2156,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.5.0/zammad-3.5.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.5.0/zammad-3.5.0.tgz
     version: 3.5.0
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2191,11 +2191,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.4.1/zammad-3.4.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.4.1/zammad-3.4.1.tgz
     version: 3.4.1
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2226,11 +2226,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.4.0/zammad-3.4.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.4.0/zammad-3.4.0.tgz
     version: 3.4.0
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2261,11 +2261,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.3.0/zammad-3.3.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.3.0/zammad-3.3.0.tgz
     version: 3.3.0
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2296,11 +2296,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.2.0/zammad-3.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.2.0/zammad-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2331,11 +2331,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.1.0/zammad-3.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.1.0/zammad-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 3.6.0
@@ -2366,11 +2366,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-3.0.0/zammad-3.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-3.0.0/zammad-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2401,11 +2401,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.6.4/zammad-2.6.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.6.4/zammad-2.6.4.tgz
     version: 2.6.4
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2436,11 +2436,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.6.3/zammad-2.6.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.6.3/zammad-2.6.3.tgz
     version: 2.6.3
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2458,11 +2458,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.6.2/zammad-2.6.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.6.2/zammad-2.6.2.tgz
     version: 2.6.2
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2480,11 +2480,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.6.1/zammad-2.6.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.6.1/zammad-2.6.1.tgz
     version: 2.6.1
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2502,11 +2502,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.6.0/zammad-2.6.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.6.0/zammad-2.6.0.tgz
     version: 2.6.0
   - apiVersion: v1
     appVersion: 3.5.0
@@ -2524,11 +2524,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.5.0/zammad-2.5.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.5.0/zammad-2.5.0.tgz
     version: 2.5.0
   - apiVersion: v1
     appVersion: 3.4.0
@@ -2546,11 +2546,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.4.0/zammad-2.4.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.4.0/zammad-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v1
     appVersion: 3.4.0
@@ -2568,11 +2568,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.3.1/zammad-2.3.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.3.1/zammad-2.3.1.tgz
     version: 2.3.1
   - apiVersion: v1
     appVersion: 3.4.0
@@ -2590,11 +2590,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.3.0/zammad-2.3.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.3.0/zammad-2.3.0.tgz
     version: 2.3.0
   - apiVersion: v1
     appVersion: 3.4.0
@@ -2612,11 +2612,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.2.0/zammad-2.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.2.0/zammad-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
     appVersion: 3.3.0
@@ -2634,11 +2634,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.1.2/zammad-2.1.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.1.2/zammad-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v1
     appVersion: 3.3.0
@@ -2656,11 +2656,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.1.1/zammad-2.1.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.1.1/zammad-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v1
     appVersion: 3.3.0
@@ -2678,11 +2678,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.1.0/zammad-2.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.1.0/zammad-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2700,11 +2700,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.5/zammad-2.0.5.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.5/zammad-2.0.5.tgz
     version: 2.0.5
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2722,11 +2722,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.4/zammad-2.0.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.4/zammad-2.0.4.tgz
     version: 2.0.4
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2744,11 +2744,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.3/zammad-2.0.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.3/zammad-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2766,11 +2766,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.2/zammad-2.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.2/zammad-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2788,11 +2788,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.1/zammad-2.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.1/zammad-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v1
     appVersion: 3.2.0
@@ -2810,11 +2810,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-2.0.0/zammad-2.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-2.0.0/zammad-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 3.1.0
@@ -2832,12 +2832,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.2.1/zammad-1.2.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.2.1/zammad-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: 3.1.0
@@ -2855,12 +2855,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.2.0/zammad-1.2.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.2.0/zammad-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: 3.0.0
@@ -2878,12 +2878,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.1.2/zammad-1.1.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.1.2/zammad-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: 3.0.0
@@ -2901,12 +2901,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.1.1/zammad-1.1.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.1.1/zammad-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: 3.0.0
@@ -2924,12 +2924,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.1.0/zammad-1.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.1.0/zammad-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 2.9.0
@@ -2947,12 +2947,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.0.2/zammad-1.0.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.0.2/zammad-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 2.9.0
@@ -2970,12 +2970,12 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     - https://docs.zammad.org/en/latest/install-kubernetes.html
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.0.1/zammad-1.0.1.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.0.1/zammad-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 2.9.0
@@ -2993,11 +2993,11 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/pavels/zammad
+    - https://github.com/pavels/zammad-docker-compose
+    - https://github.com/pavels/zammad-helm
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-1.0.0/zammad-1.0.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-1.0.0/zammad-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3015,9 +3015,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.10/zammad-0.1.10.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.10/zammad-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3035,9 +3035,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.9/zammad-0.1.9.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.9/zammad-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3055,9 +3055,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.8/zammad-0.1.8.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.8/zammad-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3075,9 +3075,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.7/zammad-0.1.7.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.7/zammad-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3095,9 +3095,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.6/zammad-0.1.6.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.6/zammad-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3115,9 +3115,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.5/zammad-0.1.5.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.5/zammad-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3135,9 +3135,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.4/zammad-0.1.4.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.4/zammad-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3155,9 +3155,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.3/zammad-0.1.3.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.3/zammad-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3175,9 +3175,9 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.2/zammad-0.1.2.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.2/zammad-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: 2.8.0
@@ -3195,8 +3195,8 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
+    - https://github.com/pavels/zammad
     urls:
-    - https://github.com/zammad/zammad-helm/releases/download/zammad-0.1.0/zammad-0.1.0.tgz
+    - https://github.com/pavels/zammad-helm/releases/download/zammad-0.1.0/zammad-0.1.0.tgz
     version: 0.1.0
 generated: "2023-11-07T09:21:53.784531026Z"
